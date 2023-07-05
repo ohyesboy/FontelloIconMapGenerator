@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FontelloIconMapGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\work\\BeeMockFiles\\fontello-194d84f3\""
+    }
+  }
+}
